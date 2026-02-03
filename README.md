@@ -1,7 +1,7 @@
 # LLM-Assisted Literature Analysis for Fe FTS
 提供“LLM-guided design of a high-loading iron carbide catalyst for efficient Fischer-Tropsch synthesis”一文中使用到的`python`代码（自2026年2月3日后不再更新）
 
-`python` codes for "LLM-guided design of a high-loading iron carbide catalyst for efficient Fischer-Tropsch synthesis" (no more update after 3rd, February, 2025)
+`python` codes for "LLM-guided design of a high-loading iron carbide catalyst for efficient Fischer-Tropsch synthesis" (no more update after 3rd, February, 2026)
 ***
 ## file_processor.py
 - `file_processor.py`定义了函数`data_to_json`和`find_txts`，用于实现基本的文件读写等操作；
